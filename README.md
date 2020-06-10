@@ -1,6 +1,7 @@
 # Калькулятор на PyQt5
 ### Скриншот
-![Screenshot 1](/screenshots/screenshot1.png)
+![Screenshot 1](screenshots\screenshot1.png)
+
 ### Управление
 В программе можно использовать следующие клавиши
 ```
@@ -10,3 +11,7 @@ D - Очистить
 Esc - Выход
 Enter - Посчитать
 Backspace - Удалить последний символ
+```
+
+### Запуск
+`python main.py`
